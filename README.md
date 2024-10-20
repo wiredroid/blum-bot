@@ -70,7 +70,7 @@ This script/program supports several argument parameters that can be used. Here'
 
 ## About Proxies
 
-Register on the following website to get free proxies: [Here](https://www.webshare.io/?referral_code=6dd35694wjdt)
+Register on the following website to get free proxies: [Here](https://www.webshare.io/?referral_code=m4pw1w764l6y)
 
 Website with the cheapest proxy price $1/GB [Here](https://dataimpulse.com/?aff=61886)
 
