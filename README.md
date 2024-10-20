@@ -35,8 +35,7 @@ All risks are borne by the user
 💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
 
 TON:
-`UQATbChkxTXjNepmCOKKH9Hv5t2cnkGfQOBF-w159gJVWJGQ`
-
+`UQAyKyBkvkuout9ZHeYWh6jrwUfhlc1mcYU2NX45v-oI5pFg`
 
 # Available Features
 
@@ -53,7 +52,7 @@ TON:
 
 # Registration
 
-Click the following link to register: [https://t.me/BlumCryptoBot/app?startapp=ref_tzmlBr4mmz](https://t.me/BlumCryptoBot/app?startapp=ref_tzmlBr4mmz)
+Click the following link to register: [https://t.me/blum/app?startapp=ref_xMXqbJFWtp](https://t.me/blum/app?startapp=ref_xMXqbJFWtp)
 
 # How to Use
 
@@ -73,7 +72,7 @@ This script/program supports several argument parameters that can be used. Here'
 
 Register on the following website to get free proxies: [Here](https://www.webshare.io/?referral_code=6dd35694wjdt)
 
-Website with the cheapest proxy price $1/GB [Here](https://dataimpulse.com/?aff=48082)
+Website with the cheapest proxy price $1/GB [Here](https://dataimpulse.com/?aff=61886)
 
 You can add proxy lists in the `proxies.txt` file, and the proxy format is as follows:
 
@@ -119,7 +118,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/limbonux/blum-bot.git
+   git clone https://github.com/wiredroid/blum-bot.git
    ```
 
 3. Enter the blum-bot folder
@@ -156,7 +155,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/limbonux/blum-bot.git
+   git clone https://github.com/wiredroid/blum-bot.git
    ```
 
 3. Enter the blum-bot folder
@@ -193,7 +192,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/limbonux/blum-bot.git
+   git clone https://github.com/wiredroid/blum-bot.git
    ```
 
 3. Enter the blum-bot folder
@@ -219,7 +218,7 @@ To view a report of the total balance of all accounts you can run a file called 
 
 # How to Get the Query
 
-The required data is the same as [pixelversebot](https://github.com/limbonux/pixelversebot), so you can watch the same tutorial video!
+The required data is the same as [pixelversebot](https://github.com/wiredroid/pixelversebot), so you can watch the same tutorial video!
 
 Here: [https://youtu.be/KTZW9A75guI](https://youtu.be/KTZW9A75guI)
 
@@ -258,13 +257,13 @@ If you did not clone the repository with git you can do a forced update with the
 
 Windows powershell : 
 ```shell
-Invoke-WebRequest https://raw.githubusercontent.com/limbonux/blum-bot/refs/heads/main/bot.py -OutFile bot.py; Invoke-WebRequest https://raw.githubusercontent.com/limbonux/blum-bot/refs/heads/main/models.py -OutFile models.py; Invoke-WebRequest https://raw.githubusercontent.com/limbonux/blum-bot/refs/heads/main/requirements.txt -OutFile requirements.txt
+Invoke-WebRequest https://raw.githubusercontent.com/wiredroid/blum-bot/refs/heads/main/bot.py -OutFile bot.py; Invoke-WebRequest https://raw.githubusercontent.com/wiredroid/blum-bot/refs/heads/main/models.py -OutFile models.py; Invoke-WebRequest https://raw.githubusercontent.com/wiredroid/blum-bot/refs/heads/main/requirements.txt -OutFile requirements.txt
 ```
 
 Linux/Termux/Unix/Windows CMD/MacOS: 
 
 ```shell
-curl https://raw.githubusercontent.com/limbonux/blum-bot/refs/heads/main/bot.py -o bot.py && curl https://raw.githubusercontent.com/limbonux/blum-bot/refs/heads/main/models.py -o models.py && curl https://raw.githubusercontent.com/limbonux/blum-bot/refs/heads/main/requirements.txt -o requirements.txt
+curl https://raw.githubusercontent.com/wiredroid/blum-bot/refs/heads/main/bot.py -o bot.py && curl https://raw.githubusercontent.com/wiredroid/blum-bot/refs/heads/main/models.py -o models.py && curl https://raw.githubusercontent.com/wiredroid/blum-bot/refs/heads/main/requirements.txt -o requirements.txt
 ```
 
 # Running 24/7
@@ -278,10 +277,6 @@ You can run the bot script 24/7 using a VPS/RDP. You can use the `screen` or `pm
 | failed get json error | This is because the server response is not in JSON format and may be in HTML. You can check the server response in the http.log file |
 | failed get task list  | This is because the server response doesn't provide the expected response. You can check the server response in the http.log file    |
 | cannot start game     | Similar to the above error, this is due to the server. You can check the server response in the http.log file                        |
-
-# Discussion
-
-If you have questions or anything else, you can ask here: [@limbonux](https://t.me/limbonux)
 
 # Questions and Answers
 
